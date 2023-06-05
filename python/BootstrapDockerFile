@@ -1,0 +1,9 @@
+# base image  
+FROM python:3.8   
+# setup environment variable
+ENV DockerHOME=/e/repos/renter_supplier
+RUN mkdir /app
+CMD tail -f /dev/null
+
+#RUN cd /e/repos/renter_supplier && pip install django
+#RUN django-admin startproject renter_supplier
