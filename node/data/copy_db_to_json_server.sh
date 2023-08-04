@@ -1,0 +1,1 @@
+docker cp ./db.json node-api-1:/data 

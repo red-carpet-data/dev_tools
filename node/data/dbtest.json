@@ -1,0 +1,16 @@
+{
+    "properties": [
+        {"id": "1", "lease_id":1, "available":false, "city": "Raleigh", "address": "2021 Tryon Road", "zip": "27606", "sqft": "1100", "bdrm": "3", "bath": "1", "contact_name": "Raleigh Rob", "contact_phone": "9194052233", "email": "rrob@gmail.com", "image_url": ""},
+        {"id": "2", "lease_id":2, "available":false, "city": "Holly Springs", "address": "109 Painted Bunting Way", "zip": "27540", "sqft": "3000", "bdrm": "4", "bath": "3", "contact_name": "Hillary Batch", "contact_phone": "3363431223", "email": "hb@gmail.com", "image_url": ""},
+        {"id": "3", "lease_id":3, "available":false, "city": "Holly Springs", "address": "312 Trinity Creek Drive", "zip": "27540", "sqft": "3600", "bdrm": "5", "bath": "4", "contact_name": "Bill Buttlicker", "contact_phone": "9197032211", "email": "bbuttl@gmail.com", "image_url": ""},
+        {"id": "4", "lease_id":4, "available":false,"city": "Seven Devils", "address": "1420 Skyland Dr.", "zip": "28604", "sqft": "1200", "bdrm": "3", "bath": "2", "contact_name": "Jim Dandy", "contact_phone": "9103232212", "email": "JDandy@gmail.com", "image_url": ""},
+        {"id": "5", "lease_id":0, "available":true, "city": "Virginia Beach", "address": "232 Main Street", "zip": "23450", "sqft": "350", "bdrm": "1", "bath": "1", "contact_name": "", "contact_phone": "", "email": "", "image_url": ""},
+        {"id": "6", "lease_id":0, "available":true, "city": "New Hope", "address": "1245 2nd st", "zip": "23433", "sqft": "3400", "bdrm": "7", "bath": "1", "contact_name": "", "contact_phone": "", "email": "", "image_url": ""}
+    ],
+    "leases":[
+        {"id":1,"property_id":1, "tenant_id":128, "start_date":"2023-04-14", "end_date":"2024-04-14", "active":true, "month_to_month":false, "monthly_rent":1450, "security_deposit": 1450, "last_months_rent": true, "move_in_date":"2024-4-14", "move_out_date":"", "actual_move_out_date":"", "deposit_returned":0, "last_months_rent_returned":0, "required_notice_days":30, "notes": [{"date":"12-31-2023", "note":"property left pristine"}] },
+        {"id":2,"property_id":2, "tenant_id":1328, "start_date":"2021-05-14", "end_date":"", "active":true, "month_to_month":true, "monthly_rent":2890, "security_deposit": 2890, "last_months_rent": false, "move_in_date":"2024-4-14", "move_out_date":"", "actual_move_out_date":"", "deposit_returned":0, "last_months_rent_returned":0, "required_notice_days":30, "notes": [{"date":"12-31-2023", "note":"property left pristine"}] },
+        {"id":3,"property_id":3, "tenant_id":4125, "start_date":"2022-06-17", "end_date":"", "active":true, "month_to_month":true, "monthly_rent":2590, "security_deposit": 2590, "last_months_rent": false, "move_in_date":"2024-4-14", "move_out_date":"", "actual_move_out_date":"", "deposit_returned":0, "last_months_rent_returned":0, "required_notice_days":30, "notes": [{"date":"12-31-2023", "note":"property left pristine"}] },
+        {"id":4,"property_id":4, "tenant_id":4125, "start_date":"2023-06-17", "end_date":"2023-12-17", "active":true, "month_to_month":false, "monthly_rent":2200, "security_deposit": 2200, "last_months_rent": true, "move_in_date":"2024-4-14", "move_out_date":"", "actual_move_out_date":"", "deposit_returned":0, "last_months_rent_returned":0, "required_notice_days":30, "notes": [{"date":"12-31-2023", "note":"property left pristine"}] }
+    ]
+}

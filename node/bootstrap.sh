@@ -14,5 +14,5 @@ docker run -d -p 3000:3000/tcp --mount type=bind,src=$app_location/,target=/app 
 #remove winpty if not running on windows
 #   winpty docker exec $app_name bash -c "npm install -g create-react-app"
 #   winpty docker exec bootnpm bash -c "cd app && npm init react-app $app_name --use-npm"
-winpty docker exec $app_name bash -c "npx create-react-app $app_name"
+docker exec $app_name bash -c "npx create-react-app $app_name"
 winpty docker exec -it $app_name bash

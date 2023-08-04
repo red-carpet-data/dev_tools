@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1",
+    "city": "Raleigh",
+    "address": "2021 Tryon Road",
+    "zip": "27606",
+    "sqft": "1100",
+    "bdrm": "3",
+    "bath": "1",
+    "contact_name": "Raleigh Rob",
+    "contact_phone": "9194052233",
+    "email": "rrob@gmail.com",
+    "image_url": ""
+  },
+  {
+    "id": "2",
+    "city": "Holly Springs",
+    "address": "109 Painted Bunting Way",
+    "zip": "27540",
+    "sqft": "3000",
+    "bdrm": "4",
+    "bath": "3",
+    "contact_name": "Hillary Batch",
+    "contact_phone": "3363431223",
+    "email": "hb@gmail.com",
+    "image_url": ""
+  },
+  {
+    "id": "3",
+    "city": "Holly Springs",
+    "address": "312 Trinity Creek Drive",
+    "zip": "27540",
+    "sqft": "3600",
+    "bdrm": "5",
+    "bath": "4",
+    "contact_name": "Bill Buttlicker",
+    "contact_phone": "9197032211",
+    "email": "bbuttl@gmail.com",
+    "image_url": ""
+  },
+  {
+    "id": "4",
+    "city": "Seven Devils",
+    "address": "1420 Skyland Dr.",
+    "zip": "28604",
+    "sqft": "1200",
+    "bdrm": "3",
+    "bath": "2",
+    "contact_name": "Jim Dandy",
+    "contact_phone": "9103232212",
+    "email": "JDandy@gmail.com",
+    "image_url": ""
+  }
+]

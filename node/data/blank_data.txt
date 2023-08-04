@@ -1,0 +1,6 @@
+property
+{"id": "", "city": "", "address": "", "zip": "", "sqft": "", "bdrm": "", "bath": "", "contact_name": "", "contact_phone": "", "email": "", "image_url": ""}
+
+"leases": [
+ {"id":1,"property_id":1, "tenant_id":1, "start_date":"", "end_date":"", "active":true, "month_to_month":false, "monthly_rent":1000, "security_deposit": 1000, "first_months_rent": true, "move_in_date":"11-1-1999", "move_out_date":"", "actual_move_out_date":"", "deposit_returned":0, "last_months_rent_returned":0, "required_notice_days":30, "expiration_date":"11/11/2020", "notes": [{"date":"12-31-2023", "note":"property left pristine"}] }
+    ]

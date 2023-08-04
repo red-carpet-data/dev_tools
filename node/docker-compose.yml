@@ -1,0 +1,8 @@
+services:
+  api:
+    ports: 
+      - 9036:80
+    image: clue/json-server:latest
+    volumes: 
+      - ./data:/data
+    
